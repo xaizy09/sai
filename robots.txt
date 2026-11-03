@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://sairichparas.netlify.app/sitemap.xml
